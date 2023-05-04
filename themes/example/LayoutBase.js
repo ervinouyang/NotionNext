@@ -28,10 +28,10 @@ const LayoutBase = props => {
         <div id='theme-example' className='dark:text-gray-300  bg-white dark:bg-black'>
             <CommonHead meta={meta} />
             {/* 顶栏LOGO */}
-            <Header {...props} />
+            //<Header {...props} />
 
             {/* 菜单 */}
-            <Nav {...props} />
+            //<Nav {...props} />
 
             {/* 主体 */}
             <div id='container-inner' className="w-full relative z-10">
