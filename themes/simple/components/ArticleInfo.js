@@ -15,7 +15,7 @@ export const ArticleInfo = (props) => {
             <div>
                 <h2
                     id='blog-item-title'
-                    className="mb-5 font-bold text-black text-xl md:text-2xl no-underline">
+                    className="font-bold text-black text-xl md:text-2xl no-underline">
                     {post.title}
                 </h2>
 
