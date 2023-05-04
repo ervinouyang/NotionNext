@@ -26,7 +26,7 @@ export const Header = (props) => {
 
                         <div>
                             <div className='text-3xl font-serif dark:text-white py-2 hover:scale-105 transform duration-200'>{BLOG.AUTHOR}</div>
-                            <div className='font-light dark:text-white py-2 hover:scale-105 transform duration-200 text-center' dangerouslySetInnerHTML={{ __html: CONFIG_SIMPLE.LOGO_DESCRIPTION }}/>
+                            //<div className='font-light dark:text-white py-2 hover:scale-105 transform duration-200 text-center' dangerouslySetInnerHTML={{ __html: CONFIG_SIMPLE.LOGO_DESCRIPTION }}/>
                         </div>
                    </div>
                 </Link>
