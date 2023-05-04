@@ -12,7 +12,7 @@ export const Header = (props) => {
   const avatar = siteInfo?.icon || BLOG.AVATAR
 
   return (
-    <header>
+    <header class="text-center justify-between items-center px-6 bg-white h-7 dark:bg-black relative z-10">
     </header>
   )
 }
