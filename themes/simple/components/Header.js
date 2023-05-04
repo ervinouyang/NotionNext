@@ -12,5 +12,7 @@ export const Header = (props) => {
   const avatar = siteInfo?.icon || BLOG.AVATAR
 
   return (
+    <header>
+    </header>
   )
 }
