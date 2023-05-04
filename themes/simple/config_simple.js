@@ -1,6 +1,6 @@
 const CONFIG_SIMPLE = {
 
-  LOGO_IMG: '/Logo.webp',
+  LOGO_IMG: '',
   TOP_BAR: false, // 显示顶栏
   TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
   LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>有声图书馆</div>',
